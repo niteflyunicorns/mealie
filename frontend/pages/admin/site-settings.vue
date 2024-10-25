@@ -16,7 +16,7 @@
         </div>
         <v-textarea v-model="bugReportText" outlined rows="18" readonly> </v-textarea>
         <div class="d-flex justify-end" style="gap: 5px">
-          <BaseButton color="gray" secondary target="_blank" href="https://github.com/hay-kot/mealie/issues/new/choose">
+          <BaseButton color="gray" secondary target="_blank" href="https://github.com/mealie-recipes/mealie/issues/new/choose">
             <template #icon> {{ $globals.icons.github }}</template>
             {{ $t('settings.tracker') }}
           </BaseButton>

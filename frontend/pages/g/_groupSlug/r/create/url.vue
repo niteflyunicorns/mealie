@@ -56,7 +56,7 @@
           >
             {{ $t("new-recipe.google-ld-json-info") }}
           </a>
-          <a href="https://github.com/hay-kot/mealie/issues" target="_blank" rel="noreferrer nofollow">
+          <a href="https://github.com/mealie-recipes/mealie/issues" target="_blank" rel="noreferrer nofollow">
             {{ $t("new-recipe.github-issues") }}
           </a>
           <a href="https://schema.org/Recipe" target="_blank" rel="noreferrer nofollow">

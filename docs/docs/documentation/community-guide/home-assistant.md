@@ -13,7 +13,7 @@ Steps:
 
 #### 1. Get your API Token
 
-Create an API token from Mealie's User Settings page (https://hay-kot.github.io/mealie/documentation/users-groups/user-settings/#api-key-generation)
+Create an API token from Mealie's User Settings page (https://docs.mealie.io/documentation/getting-started/api-usage/#getting-a-token)
 
 #### 2. Create Home Assistant Sensors
 

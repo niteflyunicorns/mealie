@@ -16,4 +16,4 @@ Alternatively, you can register a new parser by fulfilling the `ABCIngredientPar
 
 ## Links
 - [Pretrained Model](https://github.com/mealie-recipes/mealie-nlp-model)
-- [CRF++ (Forked)](https://github.com/hay-kot/crfpp)
+- [CRF++ (Forked)](https://github.com/mealie-recipes/crfpp)
