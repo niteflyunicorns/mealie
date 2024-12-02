@@ -866,7 +866,8 @@
     "you-are-offline-description": "V režime offline nie sú dostupné všetky funkcie. Stále môžete pridávať, upravovať a odstraňovať položky, ale nebudete môcť synchronizovať svoje zmeny so serverom, kým nebudete opäť online.",
     "are-you-sure-you-want-to-check-all-items": "Naozaj chcete označiť všetky položky?",
     "are-you-sure-you-want-to-uncheck-all-items": "Naozaj chcete zrušiť označenie všetkých položiek?",
-    "are-you-sure-you-want-to-delete-checked-items": "Naozaj chcete odstrániť všetky označené položky?"
+    "are-you-sure-you-want-to-delete-checked-items": "Naozaj chcete odstrániť všetky označené položky?",
+    "no-shopping-list-found": "Nenašli sa žiadne nákupné zoznamy."
   },
   "sidebar": {
     "all-recipes": "Všetky recepty",

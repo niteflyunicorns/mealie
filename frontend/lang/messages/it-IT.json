@@ -866,7 +866,8 @@
     "you-are-offline-description": "Non tutte le funzioni sono disponibili quando non sei in linea. Puoi ancora aggiungere, modificare e rimuovere elementi, ma non sarai in grado di sincronizzare le modifiche con il server fino a quando non sarai di nuovo in linea.",
     "are-you-sure-you-want-to-check-all-items": "Sei sicuro di voler tutti gli elementi?",
     "are-you-sure-you-want-to-uncheck-all-items": "Sei sicuro di voler deselezionare tutti gli elementi?",
-    "are-you-sure-you-want-to-delete-checked-items": "Sei sicuro di voler rimuovere tutti gli articoli selezionati?"
+    "are-you-sure-you-want-to-delete-checked-items": "Sei sicuro di voler rimuovere tutti gli articoli selezionati?",
+    "no-shopping-list-found": "Nessuna lista della spesa trovata."
   },
   "sidebar": {
     "all-recipes": "Ricette",

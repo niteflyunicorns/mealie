@@ -866,7 +866,8 @@
     "you-are-offline-description": "Çevrimdışıyken tüm özellikler kullanılamaz. Öğeleri hâlâ ekleyebilir, değiştirebilir ve kaldırabilirsiniz ancak tekrar çevrimiçi olana kadar değişikliklerinizi sunucuyla eşitleyemezsiniz.",
     "are-you-sure-you-want-to-check-all-items": "Tüm öğeleri işaretlemek istediğinizden emin misiniz?",
     "are-you-sure-you-want-to-uncheck-all-items": "Tüm öğelerden işaretleri kaldırmak istediğinize emin misiniz?",
-    "are-you-sure-you-want-to-delete-checked-items": "İşaretlenmiş tüm öğeleri silmek istediğinizden emin misiniz?"
+    "are-you-sure-you-want-to-delete-checked-items": "İşaretlenmiş tüm öğeleri silmek istediğinizden emin misiniz?",
+    "no-shopping-list-found": "Alışveriş Listesi Bulunamadı."
   },
   "sidebar": {
     "all-recipes": "Tüm Tarifler",

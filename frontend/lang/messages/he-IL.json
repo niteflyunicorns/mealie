@@ -866,7 +866,8 @@
     "you-are-offline-description": "חלק מהיכולות אינן זמינות במצב לא מקוון. עדיין ניתן להוסיף, לשנות, ולהוריד פריטים, אך לא ניתן לסנכרן את השינויים שלך לשרת עד לחידוש החיבור.",
     "are-you-sure-you-want-to-check-all-items": "לסמן את כל הפריטים?",
     "are-you-sure-you-want-to-uncheck-all-items": "לבטל את סימון כל הפריטים?",
-    "are-you-sure-you-want-to-delete-checked-items": "למחוק את כל הפריטים המסומנים?"
+    "are-you-sure-you-want-to-delete-checked-items": "למחוק את כל הפריטים המסומנים?",
+    "no-shopping-list-found": "לא נמצאו רשימות קניות."
   },
   "sidebar": {
     "all-recipes": "כל המתכונים",

@@ -866,7 +866,8 @@
     "you-are-offline-description": "V načinu brez povezave niso na voljo vse funkcije. Še vedno lahko dodajate, spreminjate in odstranjujete elemente, vendar ne boste mogli sinhronizirati svojih sprememb s strežnikom, dokler ne boste spet povezani.",
     "are-you-sure-you-want-to-check-all-items": "Ali res želite izbrati vse elemente?",
     "are-you-sure-you-want-to-uncheck-all-items": "Ali res ne želite izbrati vseh elementov?",
-    "are-you-sure-you-want-to-delete-checked-items": "Ali ste prepričani, da želite izbrisati vse izbrane elemente?"
+    "are-you-sure-you-want-to-delete-checked-items": "Ali ste prepričani, da želite izbrisati vse izbrane elemente?",
+    "no-shopping-list-found": "Ni nakupovalnih seznamov."
   },
   "sidebar": {
     "all-recipes": "Vsi recepti",

@@ -866,7 +866,8 @@
     "you-are-offline-description": "Offline állapotban nem minden funkció érhető el. Továbbra is hozzáadhat, módosíthat és eltávolíthat elemeket, de a módosításokat nem tudja szinkronizálni a szerverrel, amíg vissza nem tér az online állapotba.",
     "are-you-sure-you-want-to-check-all-items": "Biztos, hogy minden elemet be akar jelölni?",
     "are-you-sure-you-want-to-uncheck-all-items": "Biztos, hogy minden elem kijelölését visszavonja?",
-    "are-you-sure-you-want-to-delete-checked-items": "Biztosan törölni akarja az összes bejelölt elemet?"
+    "are-you-sure-you-want-to-delete-checked-items": "Biztosan törölni akarja az összes bejelölt elemet?",
+    "no-shopping-list-found": "Nem található bevásárlólista."
   },
   "sidebar": {
     "all-recipes": "Minden recept",

@@ -866,7 +866,8 @@
     "you-are-offline-description": "Je kunt niet alles doen als je offline bent. Je kunt wel dingen toevoegen, veranderen of weghalen. Maar we verwerken je aanpassingen pas als je weer online bent.",
     "are-you-sure-you-want-to-check-all-items": "Weet je zeker dat je alle items wilt selecteren?",
     "are-you-sure-you-want-to-uncheck-all-items": "Weet je zeker dat je alle items wilt deselecteren?",
-    "are-you-sure-you-want-to-delete-checked-items": "Weet je zeker dat je de geselecteerde items wilt verwijderen?"
+    "are-you-sure-you-want-to-delete-checked-items": "Weet je zeker dat je de geselecteerde items wilt verwijderen?",
+    "no-shopping-list-found": "Geen boodschappenlijstjes gevonden."
   },
   "sidebar": {
     "all-recipes": "Alle Recepten",

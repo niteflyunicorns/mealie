@@ -866,7 +866,8 @@
     "you-are-offline-description": "Kaikki ominaisuudet eivät ole ilman yhteyttä saatavina. Voit silti lisätä, muokata ja poistaa kohteita, muttet voi synkronoida muutoksia palvelimelle ilman yhteyttä.",
     "are-you-sure-you-want-to-check-all-items": "Haluatko varmasti valita kaikki kohteet?",
     "are-you-sure-you-want-to-uncheck-all-items": "Haluatko varmasti poistaa kaikki valinnat?",
-    "are-you-sure-you-want-to-delete-checked-items": "Haluatko varmasti poistaa kaikki valitut kohteet?"
+    "are-you-sure-you-want-to-delete-checked-items": "Haluatko varmasti poistaa kaikki valitut kohteet?",
+    "no-shopping-list-found": "Ostoslistoja ei löytynyt."
   },
   "sidebar": {
     "all-recipes": "Reseptit",

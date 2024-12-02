@@ -866,7 +866,8 @@
     "you-are-offline-description": "Ikke alle funktioner er tilgængelige mens offline. Du kan stadig tilføje, modificere, og fjerne elementer, men du vil ikke kunne synkronisere dine ændringer til serveren, før du er online igen.",
     "are-you-sure-you-want-to-check-all-items": "Er du sikker på, at du vil markere alle elementer?",
     "are-you-sure-you-want-to-uncheck-all-items": "Er du sikker på, at du vil fjerne markeringen af alle elementer?",
-    "are-you-sure-you-want-to-delete-checked-items": "Er du sikker på, at du vil sletter de valgte elementer?"
+    "are-you-sure-you-want-to-delete-checked-items": "Er du sikker på, at du vil sletter de valgte elementer?",
+    "no-shopping-list-found": "Ingen indkøbslister fundet."
   },
   "sidebar": {
     "all-recipes": "Alle opskr.",
