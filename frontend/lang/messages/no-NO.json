@@ -866,8 +866,7 @@
     "you-are-offline-description": "Ikke alle funksjoner er tilgjengelige i frakoblet modus. Du kan fremdeles legge til, endre og fjerne elementer. men du vil ikke kunne synkronisere endringene dine med serveren før du er logget på igjen.",
     "are-you-sure-you-want-to-check-all-items": "Er du sikker på at du vil velge alle elementer?",
     "are-you-sure-you-want-to-uncheck-all-items": "Er du sikker på at du vil fjerne valg av alle elementer?",
-    "are-you-sure-you-want-to-delete-checked-items": "Er du sikker på at du vil slette alle valgte elementer?",
-    "no-shopping-list-found": "Ingen handlelister funnet."
+    "are-you-sure-you-want-to-delete-checked-items": "Er du sikker på at du vil slette alle valgte elementer?"
   },
   "sidebar": {
     "all-recipes": "Alle oppskrifter",

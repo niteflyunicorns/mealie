@@ -866,8 +866,7 @@
     "you-are-offline-description": "Не всі функції доступні без мережі. Ви все ще можете додавати, змінювати та видаляти елементи, але не зможете синхронізувати зміни на сервер, поки під'єднаєтесь до мережі.",
     "are-you-sure-you-want-to-check-all-items": "Ви впевнені, що хочете відмітити всі елементи?",
     "are-you-sure-you-want-to-uncheck-all-items": "Ви впевнені, що хочете зняти відмітку з усіх елементів?",
-    "are-you-sure-you-want-to-delete-checked-items": "Ви впевнені, що хочете видалити всі відмічені елементи?",
-    "no-shopping-list-found": "Немає списків покупок."
+    "are-you-sure-you-want-to-delete-checked-items": "Ви впевнені, що хочете видалити всі відмічені елементи?"
   },
   "sidebar": {
     "all-recipes": "Всі рецепти",

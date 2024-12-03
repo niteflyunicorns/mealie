@@ -866,8 +866,7 @@
     "you-are-offline-description": "No totes les funcionalitats són disponibles desconnectat. Encara pots afegir, modificar i eliminar elements, però no podràs sincronitzar els teus canvis amb el servidor fins que et tornis a connectar.",
     "are-you-sure-you-want-to-check-all-items": "Estàs segur que vols marcar tots els elements?",
     "are-you-sure-you-want-to-uncheck-all-items": "Estàs segur que vols desmarcar tots els elements?",
-    "are-you-sure-you-want-to-delete-checked-items": "Estàs segur que vols eliminar tots els elements marcats?",
-    "no-shopping-list-found": "No s'han trobat llistes de la compra."
+    "are-you-sure-you-want-to-delete-checked-items": "Estàs segur que vols eliminar tots els elements marcats?"
   },
   "sidebar": {
     "all-recipes": "Receptes",

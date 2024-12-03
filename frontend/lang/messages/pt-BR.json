@@ -866,8 +866,7 @@
     "you-are-offline-description": "Nem todos os recursos estão disponíveis enquanto desconectado. Você ainda pode adicionar, modificar, e remover itens, mas não poderá sincronizar suas mudanças com o servidor até que esteja conectado novamente.",
     "are-you-sure-you-want-to-check-all-items": "Tem certeza que deseja marcar todos os itens?",
     "are-you-sure-you-want-to-uncheck-all-items": "Tem certeza que deseja desmarcar todos os itens?",
-    "are-you-sure-you-want-to-delete-checked-items": "Tem certeza que deseja apagar todos os itens marcados?",
-    "no-shopping-list-found": "Nenhuma lista de compras encontrada."
+    "are-you-sure-you-want-to-delete-checked-items": "Tem certeza que deseja apagar todos os itens marcados?"
   },
   "sidebar": {
     "all-recipes": "Todas as Receitas",

@@ -866,8 +866,7 @@
     "you-are-offline-description": "Alla funktioner är inte tillgängliga när du är offline. Du kan fortfarande lägga till, ändra och ta bort objekt, men du kommer ej kunna synka dina ändringar till servern förrän du är online igen.",
     "are-you-sure-you-want-to-check-all-items": "Är du säker på att du vill markera alla objekt?",
     "are-you-sure-you-want-to-uncheck-all-items": "Är du säker på att du vill avmarkera alla objekt?",
-    "are-you-sure-you-want-to-delete-checked-items": "Är du säker på att du vill ta bort alla markerade objekt?",
-    "no-shopping-list-found": "Inga inköpslistor hittades."
+    "are-you-sure-you-want-to-delete-checked-items": "Är du säker på att du vill ta bort alla markerade objekt?"
   },
   "sidebar": {
     "all-recipes": "Recept",
